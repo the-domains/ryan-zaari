@@ -1,0 +1,28 @@
+name: Ryan Zaari
+favicon: null
+layout_spectrum: 0.46798056713305414
+typography_spectrum: 0.37424063100479543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5642979564145207
+  lightness: 0.2892398606054485
+  saturation: 0.2634706371463835
+  rhythmicContrast: 0.2532837325707078
+purpose: []
