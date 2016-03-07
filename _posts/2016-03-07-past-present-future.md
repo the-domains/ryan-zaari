@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:34:59.741Z'
-dateModified: '2016-03-07T22:34:48.469Z'
+datePublished: '2016-03-07T22:39:57.557Z'
+dateModified: '2016-03-07T22:39:46.941Z'
 title: Past Present Future
 author: []
+sourcePath: _posts/2016-03-07-past-present-future.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-past-present-future.md
-published: true
 url: past-present-future/index.html
 _type: Article
 
