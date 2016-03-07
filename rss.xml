@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ryan Zaari]]></title>
+        <description><![CDATA[Ryan Zaari]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 22:35:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Past Present Future]]></title>
+            <description><![CDATA[<article><h1>Past Present Future</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6ddba3c3e5cbcc945de15ec2a86cd78a2d749e5.jpg"></article>]]></description>
+            <link>undefinedpast-present-future/index.html</link>
+            <guid isPermaLink="false">dc6efdcc-515f-4a1c-9dfb-f3d1644527a6</guid>
+            <pubDate>Mon, 07 Mar 2016 22:34:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
